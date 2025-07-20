@@ -2,13 +2,22 @@
 ## Recursion: 👻❤️🔁🎭🤖
 ### 1. Archetypes
 1. 👻 Shakespeare
+   - I'm thy fathers spirit
+   - Ghosts have unlimited number of parameters; can transform into anything including nothing...
 2. ❤️ Mozart
+   - Limited to exploring characters on his operative stages (Don Giovani vs Commandatore)
+   - The Ghost "triggered" Hamlet
+   - Don Giovanni was a horse of a different color ... 
 3. 🔁 Einstein
+   - Expanded band width by solipsistically internalizing the twin travel drama
+   - Collisions, Simulation, This is clearly a limit... body-mind-soul... 
 4. 🎭 Darwin
    - Why Homo Sapients Survived
    - And why Homo XXX Didn't
    - Same as Why OpenAIs GPT is thriving
    - Not sure who its whipped out (Humanity?)
+   - Parallel processing has no limits to context length in artificial settings
+   - So lets us AI to create simulations, that we leverage for our decision-making
 5. 🤖 Raphael
 ### 2. Body
 1. 👻 Reticulate Activation
