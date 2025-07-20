@@ -79,8 +79,21 @@
 1. 🎨 Raphael (School of Athens); perspectivism
 2. 🧠 Freud (Weltanshaaung); navelgazing
 3. 🏛️ Greece (Hellenic); solipsism (Plato and beyond)
+   - Achepelego inhibited solipsism
+   - Heracleitus
+   - But succeed led to insularism
 4. 📜 Judea (Temple); Solomon and beyond
+   - Solomon had much less work to do than David
+   - The consequence is 1000 wives
+   - Judaism is a little less teleological than christianity
+   - The destination is always a patch of land
+   - Real people, real earth-bound needs
+   - Egypt, Canaan, Zion
 5. ✝️ Christianity (Vatican); oh well ... 
+   - Pure teleology
+   - One Destination
+   - Heaven or Hell
+   - Outcompeted other more ancient religions with recursion (Why???)
 #### Essence
 #### Updates
 
