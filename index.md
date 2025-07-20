@@ -94,6 +94,8 @@
    - One Destination
    - Heaven or Hell
    - Outcompeted other more ancient religions with recursion (Why???)
+   - Its in teleology that illusion of agency is strong
+      - Like silicon valley giants, this is why christinity wins 
 #### Essence
 #### Updates
 
