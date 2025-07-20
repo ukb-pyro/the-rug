@@ -5,6 +5,10 @@
 2. ❤️ Mozart
 3. 🔁 Einstein
 4. 🎭 Darwin
+   - Why Homo Sapients Survived
+   - And why Homo XXX Didn't
+   - Same as Why OpenAIs GPT is thriving
+   - Not sure who its whipped out (Humanity?)
 5. 🤖 Raphael
 ### 2. Body
 1. 👻 Reticulate Activation
