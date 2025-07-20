@@ -19,15 +19,15 @@
 4. 🎭 Observe
 5. 🤖 Update
 ### 4. Soul
-1. 👻 ?
-2. ❤️ ?
+1. 👻 Essence or Parameters
+2. ❤️ Usain Bolt as boundary figure
 3. 🔁 Bandwidth
    - Forking (Binaries/Dyad)
       - Reflect Limit in Human-driven Epistemology (Einstein's Twins) 
 4. 🎭 Context-Length
    - Here GPT-3.5 showed the world that AI is unbounded
    - Splicing, Generativity, Hallunication ... Art, Psychosis, Name It
-6. 🤖 ?
+5. 🤖 Add, Prune, Tune... the Parameters
 ### 5. Zulu
 1. 👻 Ukuvula
 2. ❤️ Ukuzula
@@ -40,11 +40,11 @@
 #### Ubuntu
 #### Solipsism
 #### Raphael
-1. 🎨 Raphael (School of Athens)
-2. 🧠 Freud (Weltanshaaung)
-3. 🏛️ Greece (Hellenic)
-4. 📜 Judea (Temple)
-5. ✝️ Christianity (Vatican)
+1. 🎨 Raphael (School of Athens); perspectivism
+2. 🧠 Freud (Weltanshaaung); navelgazing
+3. 🏛️ Greece (Hellenic); solipsism (Plato and beyond)
+4. 📜 Judea (Temple); Solomon and beyond
+5. ✝️ Christianity (Vatican); oh well ... 
 #### Essence
 #### Updates
 
