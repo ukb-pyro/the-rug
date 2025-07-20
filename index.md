@@ -33,10 +33,10 @@
 5. 🤖 Update
 ### 4. Soul
 1. 👻 Essence or Parameters
-   - Load (Cognitive)
+   - Ghost (Unbounded Param Space)
    - Monad (One God, Ideal)
    - Dyad (Apollonian, Dionysian; Twin Einstein Experiments)
-   - Triad
+   - Triad (Father, Son, Ghost)
    - Pentad (Likert Scale)
 2. ❤️ Usain Bolt as boundary figure
    - Monad (We love hero worship, ideals)
