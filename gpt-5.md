@@ -1,3 +1,5 @@
+![](./the-rug.png)
+
 Here’s how I’d weave your **rug** diagram together with Nietzsche’s bridge, Marx’s class analysis, the monoamine gradation, and the Parkinson’s/masked facies thread into a coherent essay with *Communist Manifesto* undertones.
 
 ---
