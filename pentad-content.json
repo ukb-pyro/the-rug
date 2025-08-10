@@ -1,0 +1,23 @@
+{
+  "ontological": {
+    "God": "Value origin / metaphysics. Sets horizons; not yet a bridge.",
+    "Animal": "Embodied arousal & survival. NE-dominant reactivity; pre-reflective.",
+    "Man": "Nietzsche’s bridge: reflective branching under constraint (NE+DA).",
+    "Enterprise": "Firms/markets/institutions coordinating growth; DA-weighted scaling.",
+    "Systems": "Platforms/algorithms/capital stacks capturing recursion and returns."
+  },
+  "epistemological": {
+    "Roots": "Parameter Vector (a priori). Material base / means of production.",
+    "Trunk": "Agent × Space × Time. Logistics, mobility, labor allocation (NE tone).",
+    "Branching": "Simulation of futures. Strategy, class consciousness, choice (NE+DA).",
+    "Canopy": "Variance–Covariance Matrix (likelihoods). Coordination, credit, compute, exposure.",
+    "Fruit": "Emergent Parameters (a posteriori) → Seed/Return. Accumulation & flywheels."
+  },
+  "agentic": {
+    "Fixed / Immobile": "Bound to substrate; pre-mobility. Baseline/homeostasis.",
+    "Mobility": "NE-dominant vigilance & movement → “serf” (reactive labor).",
+    "Contemplation": "NE+DA balance → “worker” (planned production; bargaining).",
+    "Scaling": "DA-dominant reward pursuit → “user/manager/entrepreneur”.",
+    "Recursive": "Self-reinforcing loops (algos/finance). Human agency externalized → clip."
+  }
+}
