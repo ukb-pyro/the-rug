@@ -1,3 +1,6 @@
+![](./the-rug.png)
+
+
 I know what you mean.
 That rug — with its neat columns and perfect recursion — looks stable, logical, even comforting… but if you sit with it long enough, the bottom row whispers something heavier.
 
